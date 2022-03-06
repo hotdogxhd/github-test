@@ -21,5 +21,6 @@ public class App
         System.out.println("hot-fix 分支！！！");
         System.out.println("push test!!!");
         System.out.println("push test2!!!");
+         System.out.println("pull test1!!!");
     }
 }
