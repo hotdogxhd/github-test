@@ -18,5 +18,6 @@ public class App
         System.out.println("11111111111111222222222222222");
         System.out.println("hot-fix的修改11111！！！！！！！！！！！！！！！！！！！！！！！！！！");
         System.out.println("master 分支！！！");
+        System.out.println("hot-fix 分支！！！");
     }
 }
